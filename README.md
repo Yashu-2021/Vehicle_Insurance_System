@@ -14,6 +14,7 @@ PART A: Conceptual Data Model (CDM) – Optional
 PART B: Logical Data Model (LDM) – Optional
 PART C: Physical Data Model (PDM) – Required
 PART D: Create and execute SQL queries for all provided scenarios – Required
+
 The final submission should include the model(s) and SQL queries along with their corresponding outputs. Each team must submit one consolidated copy of their work on GitHub.
 
 Naming Guidelines:
